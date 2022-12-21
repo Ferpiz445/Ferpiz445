@@ -24,3 +24,4 @@
 
 ##
 
+![Snake animation](https://github.com/Ferpiz445/Ferpiz445/blob/output/github-contribution-grid-snake.svg)
