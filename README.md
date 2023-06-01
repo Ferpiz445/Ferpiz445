@@ -22,7 +22,7 @@
   <img align="center" alt="Lipe-MySql" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img align="center" alt="Lipe-Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
   <img align="center" alt="Lipe-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="right" alt="Lipe-pic" height="150" style="border-radius:50px;" src="https://cdn.picrew.me/shareImg/org/202212/338224_UdMxF3qV.png">
+  <img align="right" alt="Lipe-pic" height="150" style="border-radius:50px;" src="https://cdn.picrew.me/shareImg/org/202306/338224_lrH59l7u.png">
 </div>
 
 ##
