@@ -13,7 +13,7 @@
 ##
 
 <div align="left">
-  <a href="[https://profile-readme-generator.com](https://www.youtube.com/@ferpiz4457)" target="_blank">
+  <a href="https://www.youtube.com/@ferpiz4457" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
   <a href="https://www.instagram.com/monteiro_only/" target="_blank">
