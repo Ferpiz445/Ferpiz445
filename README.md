@@ -1,4 +1,4 @@
-## Oi! Eu sou o Felipe, Desenvolvedor Web!
+## Hi! I'm Felipe Monteiro, just a good Web Developer!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Lipe-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> 
